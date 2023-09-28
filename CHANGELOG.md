@@ -1,5 +1,8 @@
 ## Changelog
 
+### CustomOptOut 2.0.5
+* Matomo 5 compatibility
+
 ### CustomOptOut 2.0.4
 * Update translation
 
